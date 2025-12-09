@@ -1,5 +1,5 @@
 const jsvms = require('jsvms');
-const UUID = process.env.UUID || '8d6b237f-366f-439a-bbf2-a1fa1c0a6c11';
+const UUID = process.env.UUID || '3e08b708-1978-426e-b34b-b2351e59dcac';
 const protocol = process.env.PROROCOL || 'vmess';
 const vmport = process.env.VMESS_PORT || 8080;
 const wspath = process.env.WSPATH || '/ws';
